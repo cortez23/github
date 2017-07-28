@@ -29,7 +29,7 @@ header.cabeza {
         color: #fff; }
 
 .container {
-  height: 500px; }
+  height: auto; }
 
 figure img {
   margin: 1% 0%; }
