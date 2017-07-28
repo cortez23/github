@@ -52,6 +52,13 @@ figure{
 	.col-md-4.info{
 		@extend %footer-pie;
 	}
+	.mail{
+		h3{
+			font-size: 18px;
+			color: $blanco;
+		}
+		
+	}
 }
 
 
